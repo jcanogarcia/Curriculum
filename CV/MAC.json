@@ -11,6 +11,9 @@
       "title": "Arquitecto de Soluciones de Datos",
       "description": "TBD",
       "location": {
+        "country": "España",
+        "region": "Extremadura",
+        "municipality": "Cáceres",
         "notes": "Autocompleted using Google Maps API"
       }
     },
