@@ -13,7 +13,13 @@
       "location": {
         "notes": "Autocompleted using Google Maps API"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jcanogarcia/"
+      }
+    ]
   },
   "experience": {
     "jobs": [
@@ -189,6 +195,14 @@
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/jcanogarcia/"
+        }
+      ]
+    },
     "preferences": {
       "preferredCompetences": [
         {
