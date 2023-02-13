@@ -8,12 +8,115 @@
     "profile": {
       "name": "Jaime",
       "surnames": "Cano García",
-      "title": "",
-      "description": "",
+      "title": "Arquitecto de Soluciones de Datos",
+      "description": "TBD",
       "location": {
         "notes": "Autocompleted using Google Maps API"
       }
     }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Dec 2015 - Present "
+        },
+        "roles": [
+          {
+            "name": "Desarrollo de Framework para Integración de datos",
+            "startDate": "2023-02-13",
+            "challenges": [
+              {
+                "description": "Desarrollo de Framework para Integración de datos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Dec 2015 - Present "
+        },
+        "roles": [
+          {
+            "name": "Jefe de equipo DBAs informacional",
+            "startDate": "2023-02-13",
+            "challenges": [
+              {
+                "description": "Jefe de equipo DBAs informacional"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Full-time "
+        },
+        "roles": [
+          {
+            "name": "SERBAN - Soluciones digitales, biometrías y otros servicios",
+            "startDate": "2015-12-01",
+            "challenges": [
+              {
+                "description": "Desarrollo de Framework para Integración de datos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Grupo SM (Quental Technologies)"
+        },
+        "roles": [
+          {
+            "name": "DBA SQL Server",
+            "startDate": "2014-08-01",
+            "finishDate": "2015-11-30",
+            "challenges": [
+              {
+                "description": "Administración y Desarrollo SQL Server Azure/2012/2014:\n\n• Modelado de datos.\n• Optimización de consultas SQL en SQLServer 2012/2014/Azure\n• Diseño de Actualizaciones de arquitecturas y migraciones de datos\n• Desarrollo para Datawarehouse de BI.\n• Diseño y desarrollo de proyecto de Business Inteligence con SSIS.\n• Gestión de Proyectos de BBDD SQL Server y Azure con Visual Studio.\n• Administración de servidores SSAS y SQL Server"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Unisys"
+        },
+        "roles": [
+          {
+            "name": "Analista Programador SQL Server y .Net",
+            "startDate": "2006-11-01",
+            "finishDate": "2014-08-31",
+            "challenges": [
+              {
+                "description": "Especializado en desarrollo para SQL Server, he trabajado con las diferentes versiones desde SQL Server 2005 realizando principalmente labores de modelado de datos y creación y optimización de Procedimientos Almacenados para la gestión de negocio a nivel de base de datos.\n\nEn los últimos 5 años en la Agencia Estatal de Seguridad Aérea (AESA) para el desarrollo de una plataforma de administración electrónica en una arquitectura orientada a servicios (SOA), tanto a nivel externo a través del acceso por Internet (Sede electrónica) utilizando registro y firma electrónica por el administrado, como interno para el registro, control y seguimiento de las inspecciones/expedientes, con el uso de formularios y un control de flujo de trabajo asociado para la gestión de documentos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "INSA"
+        },
+        "roles": [
+          {
+            "name": "Operador",
+            "startDate": "2006-01-01",
+            "finishDate": "2006-11-30",
+            "challenges": [
+              {
+                "description": "Operador de CAU. Backups y monitorización de procesos."
+              }
+            ]
+          }
+        ]
+      }
+    ]
   },
   "knowledge": {
     "hardSkills": [
@@ -86,6 +189,39 @@
     ]
   },
   "careerPreferences": {
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
+          "name": "Kafka",
+          "type": "technology"
+        },
+        {
+          "name": "SQLServer",
+          "type": "technology"
+        },
+        {
+          "name": "SSIS",
+          "type": "technology"
+        },
+        {
+          "name": "Spark",
+          "type": "technology"
+        },
+        {
+          "name": "Visual Studio",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Data Analysis & BI",
+        "Data Engineer",
+        "SysAdmin"
+      ]
+    },
     "status": "searchingActively"
   }
 }
