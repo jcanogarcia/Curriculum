@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Extremadura",
-        "municipality": "Cáceres",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Cáceres"
       }
     },
     "relevantLinks": [
@@ -36,11 +35,11 @@
         },
         "roles": [
           {
-            "name": "Desarrollo de Framework para Integración de datos",
+            "name": "Jefe de equipo DBAs informacional",
             "startDate": "2023-02-13",
             "challenges": [
               {
-                "description": "Desarrollo de Framework para Integración de datos"
+                "description": "Jefe de equipo DBAs informacional"
               }
             ]
           }
@@ -52,11 +51,21 @@
         },
         "roles": [
           {
-            "name": "Jefe de equipo DBAs informacional",
-            "startDate": "2023-02-13",
+            "name": "Desarrollo de Framework para Integración de datos",
+            "startDate": "2015-12-01",
             "challenges": [
               {
-                "description": "Jefe de equipo DBAs informacional"
+                "description": "Desarrollo de framework para integración de datos basado en metadatos automatizando la creación y ejecución de paquetes SSIS mediante BIML."
+              }
+            ],
+            "competences": [
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "SSIS",
+                "type": "technology"
               }
             ]
           }
@@ -134,8 +143,7 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       }
     ],
     "hardSkills": [
@@ -248,7 +256,6 @@
         "Data Engineer",
         "SysAdmin"
       ]
-    },
-    "status": "openToOffers"
+    }
   }
 }
