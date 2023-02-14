@@ -36,7 +36,7 @@
         "roles": [
           {
             "name": "Desarrollo de Framework para Integración de datos",
-            "startDate": "2015-12-01",
+            "startDate": "2017-03-01",
             "challenges": [
               {
                 "description": "Desarrollo de framework para integración de datos basado en metadatos automatizando la creación y ejecución de paquetes SSIS mediante BIML."
@@ -44,11 +44,55 @@
             ],
             "competences": [
               {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "BI",
+                "type": "technology"
+              },
+              {
+                "name": "Batch",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "DB2",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Access",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
                 "name": "SQLServer",
                 "type": "technology"
               },
               {
                 "name": "SSIS",
+                "type": "technology"
+              },
+              {
+                "name": "Salesforce",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio",
+                "type": "technology"
+              },
+              {
+                "name": "XML",
                 "type": "technology"
               }
             ]
