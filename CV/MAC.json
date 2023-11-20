@@ -342,8 +342,7 @@
       "preferredRoles": [
         "DBA",
         "Data Analysis & BI",
-        "Data Engineer",
-        "SysAdmin"
+        "Data Engineer"
       ]
     },
     "status": "openToOffers"
