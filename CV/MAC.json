@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -11,14 +11,14 @@
       "title": "Arquitecto de Soluciones de Datos",
       "description": "Soy un entusiasta de los datos con 15 años de experiencia en el manejo de los mismos. He ido evolucionando desde el desarrollo de aplicaciones en .NET con BBDD SQL Server a administrarlas y posteriormente hacia los niveles más técnicos del Business Intelligence y la integración de datos.\nTengo una mentalidad de automatizarlo todo con scripts o a través de metadatos, combinando mis habilidades de programación con mi conocimiento de bases de datos.\nTengo gran conocimiento en SQL Server a todos los niveles, SSIS, BIML y he realizado integraciones de datos desde y hacia fuentes muy diversas (BBDD relacionales, ficheros de todo tipo, API Rest, Salesforce...)\n",
       "avatar": {
-        "alt": "1536937115-90724-zoom-500x600.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/13/4add8ad6-cb5a-4d7c-96c3-267e0d0cd184_1536937115-90724-zoo.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/13/4add8ad6-cb5a-4d7c-96c3-267e0d0cd184_1536937115-90724-zoo.jpg",
+        "alt": "1536937115-90724-zoom-500x600.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJNTfqkczLPw0RAqsK-Pecwno)",
         "country": "España",
         "region": "Extremadura",
-        "municipality": "Jarandilla de la Vera",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Jarandilla de la Vera"
       }
     },
     "relevantLinks": [
@@ -102,22 +102,6 @@
       },
       {
         "organization": {
-          "name": "Full-time "
-        },
-        "roles": [
-          {
-            "name": "SERBAN - Soluciones digitales, biometrías y otros servicios",
-            "startDate": "2015-12-01",
-            "challenges": [
-              {
-                "description": "Desarrollo de Framework para Integración de datos"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Dec 2015 - Present "
         },
         "roles": [
@@ -133,6 +117,22 @@
               {
                 "name": "SQLServer",
                 "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Full-time "
+        },
+        "roles": [
+          {
+            "name": "SERBAN - Soluciones digitales, biometrías y otros servicios",
+            "startDate": "2015-12-01",
+            "challenges": [
+              {
+                "description": "Desarrollo de Framework para Integración de datos"
               }
             ]
           }
@@ -194,20 +194,15 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "SQLServer",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Salesforce",
+          "name": ".NET",
           "type": "technology"
         }
       },
@@ -219,7 +214,37 @@
       },
       {
         "skill": {
-          "name": ".NET",
+          "name": "BI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Oracle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "REST",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
           "type": "technology"
         }
       },
@@ -237,32 +262,34 @@
       },
       {
         "skill": {
-          "name": "C#",
+          "name": "Salesforce",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "REST",
+          "name": "Transact-SQL (T-SQL)",
           "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "MySQL",
-          "type": "technology"
+          "name": "Pensamiento analítico",
+          "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "BI",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Oracle",
-          "type": "technology"
+          "name": "Tolerancia a la incertidumbre",
+          "type": "practice"
         }
       }
     ]
@@ -271,8 +298,17 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/jcanogarcia/"
+          "URL": "https://www.linkedin.com/in/jcanogarcia/",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "jaimecanogarcia81@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "647721057",
+          "countryCode": "+34"
         }
       ]
     },
@@ -310,5 +346,31 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": ".NET",
+        "type": "technology"
+      },
+      {
+        "name": "BI",
+        "type": "technology"
+      },
+      {
+        "name": "SQLServer",
+        "type": "technology"
+      },
+      {
+        "name": "SSIS",
+        "type": "technology"
+      },
+      {
+        "name": "Transact-SQL (T-SQL)",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Me gustaría un trabajo dinámico, en el que tenga que aprender  continuamente y que tenga que ver con el mundo de los datos.\nPreferiría un equipo pequeño, en el que la gestión del mismo no consuma una gran porción del tiempo para seguir ligado a las tareas más técnicas.\nEl trabajo sería en remoto y con un horario flexible, orientado a objetivos.",
+    "goodPractices": "Intento realizar todas mis actividades bajo las premisas del \"Don't Repeat Yourself\" y el \"Keep it simple\" mediante la modularización, estandariación y automatización de todo lo que hago."
   }
 }
