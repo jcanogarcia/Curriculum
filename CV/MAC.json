@@ -340,6 +340,7 @@
         }
       ],
       "preferredRoles": [
+        "DBA",
         "Data Analysis & BI",
         "Data Engineer",
         "SysAdmin"
