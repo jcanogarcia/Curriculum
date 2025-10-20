@@ -69,6 +69,10 @@
                 "type": "technology"
               },
               {
+                "name": "Microsoft SQL Integration Services (SSIS)",
+                "type": "technology"
+              },
+              {
                 "name": "MySQL",
                 "type": "technology"
               },
@@ -78,10 +82,6 @@
               },
               {
                 "name": "SQLServer",
-                "type": "technology"
-              },
-              {
-                "name": "SSIS",
                 "type": "technology"
               },
               {
@@ -226,6 +226,12 @@
       },
       {
         "skill": {
+          "name": "Microsoft SQL Integration Services (SSIS)",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "MySQL",
           "type": "technology"
         }
@@ -245,12 +251,6 @@
       {
         "skill": {
           "name": "SQLServer",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SSIS",
           "type": "technology"
         }
       },
@@ -301,15 +301,6 @@
           "URL": "https://www.linkedin.com/in/jcanogarcia/",
           "type": "linkedin"
         }
-      ],
-      "contactMails": [
-        "jaimecanogarcia81@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "647721057",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
@@ -323,11 +314,11 @@
           "type": "technology"
         },
         {
-          "name": "SQLServer",
+          "name": "Microsoft SQL Integration Services (SSIS)",
           "type": "technology"
         },
         {
-          "name": "SSIS",
+          "name": "SQLServer",
           "type": "technology"
         },
         {
@@ -341,7 +332,7 @@
       ],
       "preferredRoles": [
         "DBA",
-        "Data Analysis & BI",
+        "Data Analyst & BI",
         "Data Engineer"
       ]
     },
@@ -358,11 +349,11 @@
         "type": "technology"
       },
       {
-        "name": "SQLServer",
+        "name": "Microsoft SQL Integration Services (SSIS)",
         "type": "technology"
       },
       {
-        "name": "SSIS",
+        "name": "SQLServer",
         "type": "technology"
       },
       {
